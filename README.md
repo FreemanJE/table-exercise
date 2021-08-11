@@ -5,6 +5,7 @@
 table
 
 | Name          | Age          | Favourite color | Favourite language |
+| --------------| ------------ | --------------- | ------------------ |
 | Freeman       | 25           | Green           | English            |
 
 Unordered List
@@ -12,4 +13,7 @@ Unordered List
  - Resturant b
  - resturant c
  - Resturant d
+
+``` this is the code```
+
 
